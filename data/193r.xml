@@ -862,11 +862,12 @@
                     WIDTH="1057"
                     HEIGHT="127">
             <Shape><Polygon POINTS="1362 972 1465 994 1468 994 1573 976 1611 994 1614 994 1617 997 1810 997 1810 994 1813 994 1816 994 1816 991 1835 976 1928 991 1931 991 1934 991 1993 976 2012 972 2158 972 2167 976 2186 991 2189 991 2192 991 2195 991 2419 976 2419 935 2413 892 2195 892 2192 885 2174 870 2171 870 2167 870 1981 870 1978 870 1922 882 1881 892 1804 882 1735 873 1732 873 1729 873 1713 879 1692 892 1614 879 1573 873 1570 873 1567 873 1558 879 1536 888 1502 876 1489 873 1486 873 1483 873 1480 873 1465 876 1415 892 1362 876 1362 941 1362 972"/></Shape>
-	    <String CONTENT="U ns frans hom est defrance issuz"
+	    <String CONTENT="U ns frans hom est defrance issui"
                     HPOS="1362"
                     VPOS="870"
                     WIDTH="1057"
-                    HEIGHT="127"></String>
+                    HEIGHT="127"
+                    WC="0.9736186916177924"></String>
           </TextLine>
           <TextLine ID="eSc_line_e8c87bea"
                     TAGREFS="LT8"
@@ -2140,11 +2141,25 @@
         </TextBlock>
         <TextBlock HPOS="1299"
                    VPOS="678"
-                   WIDTH="95"
-                   HEIGHT="101"
+                   WIDTH="106"
+                   HEIGHT="123"
                    ID="eSc_textblock_4146bce2"
                    TAGREFS="BT11">
-          <Shape><Polygon POINTS="1299 678 1299 779 1394 779 1394 678"/></Shape>
+          <Shape><Polygon POINTS="1299 678 1299 799 1405 801 1394 678"/></Shape>
+          <TextLine ID="eSc_line_05a6e725"
+                    TAGREFS="LT7"
+                    BASELINE="1308 785 1385 788" 
+                    HPOS="1301"
+                    VPOS="610"
+                    WIDTH="79"
+                    HEIGHT="196">
+            <Shape><Polygon POINTS="1301 797 1371 806 1380 787 1380 610 1310 610 1305 783"/></Shape>
+	    <String CONTENT="¶"
+                    HPOS="1301"
+                    VPOS="610"
+                    WIDTH="79"
+                    HEIGHT="196"></String>
+          </TextLine>
         </TextBlock>
       </PrintSpace>
     </Page>
