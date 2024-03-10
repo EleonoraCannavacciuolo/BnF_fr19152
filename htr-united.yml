@@ -1,35 +1,98 @@
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
-title: BNF_fr19152
-url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 authors:
-  - name: Eleonora
-    surname: Cannavacciuolo
-    roles:
-      - transcriber
-      - aligner
-      - project-manager
-      - quality-control
-      - digitization
-institutions: []
-description: Transcription du ms. BnF, fr. 19152.
-language:
-  - fro
-production-software: eScriptorium + Kraken
+- name: Eleonora
+  roles:
+  - transcriber
+  - aligner
+  - project-manager
+  - quality-control
+  - digitization
+  surname: Cannavacciuolo
 automatically-aligned: true
-script:
-  - iso: Latn
-script-type: only-manuscript
-time:
-  notBefore: '1250'
-  notAfter: '1400'
+characters:
+  members:
+  - e
+  - i
+  - s
+  - a
+  - o
+  - t
+  - n
+  - l
+  - r
+  - u
+  - d
+  - m
+  - c
+  - p
+  - ̃
+  - ⁊
+  - ̾
+  - f
+  - h
+  - z
+  - g
+  - .
+  - b
+  - ꝯ
+  - q
+  - Q
+  - S
+  - ͣ
+  - I
+  - M
+  - ͥ
+  - ꝑ
+  - x
+  - D
+  - L
+  - E
+  - U
+  - C
+  - ᷑
+  - ꝰ
+  - P
+  - T
+  - N
+  - G
+  - F
+  - A
+  - B
+  - 
+  - ͬ
+  - O
+  - R
+  - ͦ
+  - ᷤ
+  mode: NFD
+description: Transcription du ms. BnF, fr. 19152.
+format: Alto-XML
 hands:
   count: '1'
   precision: exact
+institutions: []
+language:
+- fro
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
-format: Alto-XML
+production-software: eScriptorium + Kraken
+schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+script:
+- iso: Latn
+script-type: only-manuscript
+time:
+  notAfter: '1400'
+  notBefore: '1250'
+title: BNF_fr19152
+url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-  - metric: pages
-    count: 400
-
+- count: 2757
+  metric: characters
+- count: 2
+  metric: files
+- count: 138
+  metric: lines
+- count: 400
+  metric: pages
+- count: 7
+  metric: regions
