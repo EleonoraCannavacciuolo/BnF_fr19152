@@ -9,61 +9,7 @@ authors:
   surname: Cannavacciuolo
 automatically-aligned: true
 characters:
-  members:
-  - e
-  - i
-  - s
-  - a
-  - o
-  - t
-  - n
-  - l
-  - r
-  - u
-  - d
-  - m
-  - c
-  - p
-  - ̃
-  - ⁊
-  - ̾
-  - f
-  - h
-  - g
-  - z
-  - .
-  - b
-  - ꝯ
-  - q
-  - Q
-  - S
-  - ͣ
-  - I
-  - M
-  - ͥ
-  - ꝑ
-  - x
-  - D
-  - L
-  - E
-  - U
-  - C
-  - ᷑
-  - ꝰ
-  - P
-  - T
-  - N
-  - G
-  - F
-  - A
-  - B
-  - 
-  - ͬ
-  - O
-  - R
-  - ͦ
-  - ᷤ
-  - ¶
+  members: []
   mode: NFD
 description: Transcription du ms. BnF, fr. 19152.
 format: Alto-XML
@@ -87,7 +33,7 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 2758
+- count: 0
   metric: characters
 - count: 1
   metric: files
