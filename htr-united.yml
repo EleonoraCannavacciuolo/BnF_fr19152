@@ -32,8 +32,8 @@ characters:
   - h
   - b
   - ⁊
-  - Q
   - .
+  - Q
   - L
   - q
   - S
@@ -50,15 +50,15 @@ characters:
   - A
   - I
   - P
-  - N
   - O
+  - N
   - T
   - U
   - C
   - G
+  - ͦ
   - "'"
   - B
-  - ͦ
   - F
   - H
   - ᷤ
@@ -68,7 +68,6 @@ characters:
   - ł
   - '1'
   - y
-  - ͨ
   - Y
   - ͤ
   mode: NFD
@@ -94,7 +93,7 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 14199
+- count: 14195
   metric: characters
 - count: 5
   metric: files
