@@ -32,8 +32,8 @@ characters:
   - h
   - b
   - ⁊
-  - .
   - Q
+  - .
   - L
   - q
   - S
@@ -41,33 +41,34 @@ characters:
   - ꝯ
   - ͣ
   - D
-  - ᷑
   - ꝑ
-  - E
+  - ᷑
   - M
+  - E
   - x
   - ꝰ
   - A
   - I
-  - N
   - P
+  - N
   - O
   - T
   - U
   - C
   - G
-  - ͦ
-  - B
   - "'"
+  - B
+  - ͦ
   - F
   - H
   - ᷤ
-  - ':'
   - R
   - 
+  - ':'
   - ł
   - '1'
   - y
+  - ͨ
   - Y
   - ͤ
   mode: NFD
@@ -101,5 +102,5 @@ volume:
   metric: lines
 - count: 400
   metric: pages
-- count: 31
+- count: 32
   metric: regions
