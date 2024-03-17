@@ -51,10 +51,10 @@ characters:
   - O
   - ꝰ
   - T
-  - C
   - P
-  - U
+  - C
   - N
+  - U
   - F
   - G
   - B
@@ -71,10 +71,10 @@ characters:
   - '5'
   - '1'
   - 
+  - '9'
   - ͬ
   - Y
   - Ꝙ
-  - '9'
   - '&'
   mode: NFD
 description: Transcription du ms. BnF, fr. 19152.
@@ -99,7 +99,7 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 39219
+- count: 39218
   metric: characters
 - count: 14
   metric: files
@@ -107,5 +107,5 @@ volume:
   metric: lines
 - count: 400
   metric: pages
-- count: 90
+- count: 89
   metric: regions
