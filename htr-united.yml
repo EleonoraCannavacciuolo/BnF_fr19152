@@ -102,11 +102,11 @@ url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
 - count: 42007
   metric: characters
-- count: 15
+- count: 16
   metric: files
-- count: 2057
+- count: 2192
   metric: lines
 - count: 400
   metric: pages
-- count: 95
+- count: 102
   metric: regions
