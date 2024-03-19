@@ -758,6 +758,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="1297 669 1297 807 1416 803 1416 669"/></Shape>
           <TextLine ID="eSc_line_261d46b8"
+                    TAGREFS="LT7"
                     BASELINE="1309 791 1400 791" 
                     HPOS="1305"
                     VPOS="677"
