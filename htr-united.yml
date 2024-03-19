@@ -20,14 +20,14 @@ characters:
   - l
   - n
   - u
-  - m
   - ̃
+  - m
   - c
   - d
   - p
   - f
-  - ̾
   - z
+  - ̾
   - g
   - b
   - h
@@ -36,26 +36,26 @@ characters:
   - .
   - q
   - ͥ
-  - ͣ
   - S
   - L
+  - ͣ
   - ꝯ
-  - ꝑ
   - D
+  - ꝑ
   - M
   - x
   - A
   - I
   - ꝰ
-  - O
   - E
+  - O
   - ᷑
   - T
   - C
-  - P
   - N
-  - U
+  - P
   - F
+  - U
   - G
   - B
   - ͦ
@@ -63,22 +63,25 @@ characters:
   - "'"
   - ':'
   - 
-  - ͤ
   - R
+  - ͤ
   - ł
   - ᷤ
   - y
   - '5'
   - ͬ
-  - '1'
   - /
-  - 
+  - '1'
   - '9'
+  - 
   - ħ
+  - '-'
   - Y
   - Ꝙ
   - '&'
   - ꝙ
+  - ͨ
+  - ꝓ
   mode: NFD
 description: Transcription du ms. BnF, fr. 19152.
 format: Alto-XML
@@ -102,13 +105,13 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 61181
+- count: 69294
   metric: characters
-- count: 22
+- count: 25
   metric: files
-- count: 3003
+- count: 3408
   metric: lines
 - count: 400
   metric: pages
-- count: 138
+- count: 159
   metric: regions
