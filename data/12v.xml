@@ -97,7 +97,7 @@
                     WC="0.9891553712742669"></String>
           </TextLine>
           <TextLine ID="eSc_line_5cfc2456"
-                    TAGREFS="LT10"
+                    TAGREFS="LT8"
                     BASELINE="237 684 1112 685" 
                     HPOS="230"
                     VPOS="600"
@@ -127,12 +127,13 @@
                     WC="0.9934859156608582"></String>
           </TextLine>
           <TextLine ID="eSc_line_2d33535c"
+                    TAGREFS="LT10"
                     BASELINE="1133 700 1303 702" 
                     HPOS="1131"
                     VPOS="591"
                     WIDTH="169"
                     HEIGHT="164">
-            <Shape><Polygon POINTS="1131 699 1131 755 1300 755 1300 699 1295 591 1131 595 1131 699"/></Shape>
+            <Shape><Polygon POINTS="1131 755 1300 755 1300 699 1295 591 1131 595 1131 699"/></Shape>
 	    <String CONTENT="noit"
                     HPOS="1131"
                     VPOS="591"
