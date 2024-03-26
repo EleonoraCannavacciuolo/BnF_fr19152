@@ -10,7 +10,7 @@
   </Description>
   <Tags>
     <OtherTag ID="BT7" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT8" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT9" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT10" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT11" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT12" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT13" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT14" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT15" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT17" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT18" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT19" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT20" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT21" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT22" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/><OtherTag ID="BT54" LABEL="MainZone:column" DESCRIPTION="block type MainZone:column"/><OtherTag ID="BT67" LABEL="text" DESCRIPTION="block type text"/><OtherTag ID="BT72" LABEL="DropCapitalZone:floriate" DESCRIPTION="block type DropCapitalZone:floriate"/>
-    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT35" LABEL="default" DESCRIPTION="line type default"/>
+    <OtherTag ID="LT7" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/><OtherTag ID="LT8" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT9" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT10" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT11" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT12" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT35" LABEL="default" DESCRIPTION="line type default"/><OtherTag ID="LT64" LABEL="InterlinearLine:addition" DESCRIPTION="line type InterlinearLine:addition"/>
   </Tags>
   <Layout>
     <Page WIDTH="3632"
@@ -1109,7 +1109,7 @@
                     VPOS="2611"
                     WIDTH="957"
                     HEIGHT="139">
-            <Shape><Polygon POINTS="1367 2699 1363 2750 2315 2750 2320 2704 2315 2624 1367 2611 1367 2699"/></Shape>
+            <Shape><Polygon POINTS="1363 2750 2315 2750 2320 2704 2315 2624 1367 2611 1367 2699"/></Shape>
 	    <String CONTENT="Q nͣtes granz cales ẽ tͥstece"
                     HPOS="1363"
                     VPOS="2611"
@@ -1547,7 +1547,7 @@
                    HEIGHT="4843"
                    ID="eSc_textblock_2873a3c5"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="2460 168 2456 483 2449 1149 2408 4994 3573 5011 3601 220"/></Shape>
+          <Shape><Polygon POINTS="2460 168 2459 483 2449 1149 2408 4994 3573 5011 3601 220"/></Shape>
           <TextLine ID="eSc_line_a3f4936f"
                     TAGREFS="LT8"
                     BASELINE="2496 349 3486 353" 
@@ -1600,7 +1600,7 @@
                     VPOS="554"
                     WIDTH="915"
                     HEIGHT="136">
-            <Shape><Polygon POINTS="2595 629 2548 629 2502 629 2506 638 2506 690 3412 662 3417 629 3403 554 2623 573 2595 629"/></Shape>
+            <Shape><Polygon POINTS="2548 629 2502 629 2506 638 2506 690 3412 662 3417 629 3403 554 2623 573 2595 629"/></Shape>
 	    <String CONTENT="i. a dupoure naura m̃ti"
                     HPOS="2502"
                     VPOS="554"
