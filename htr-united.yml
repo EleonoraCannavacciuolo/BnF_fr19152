@@ -71,17 +71,17 @@ characters:
   - '9'
   - '5'
   - Ꝙ
+  - '1'
   - ͬ
   - 
-  - '1'
   - /
-  - ͨ
   - ¶
+  - ͨ
   - Y
   - ħ
   - '-'
   - ꝓ
-  - '2'
+  - '0'
   - '&'
   - ꝙ
   - ̧
@@ -110,7 +110,7 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 148539
+- count: 148538
   metric: characters
 - count: 54
   metric: files
@@ -118,5 +118,5 @@ volume:
   metric: lines
 - count: 400
   metric: pages
-- count: 331
+- count: 330
   metric: regions
