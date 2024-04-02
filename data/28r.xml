@@ -2147,14 +2147,6 @@
                     WC="0.9999997615814209"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2236"
-                   VPOS="4445"
-                   WIDTH="100"
-                   HEIGHT="4"
-                   ID="eSc_textblock_06d1deec"
-                   >
-          <Shape><Polygon POINTS="2336 4449 2336 4445 2236 4445 2236 4449"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
