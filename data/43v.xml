@@ -1306,17 +1306,18 @@
           </TextLine>
           <TextLine ID="eSc_line_44a93a5e"
                     TAGREFS="LT8"
-                    BASELINE="1373 4135 1432 4134 2203 4132" 
-                    HPOS="1372"
-                    VPOS="4075"
-                    WIDTH="1147"
-                    HEIGHT="113">
-            <Shape><Polygon POINTS="2189 4163 2136 4172 2080 4184 2073 4184 2039 4175 2020 4169 1898 4175 1698 4188 1695 4188 1488 4178 1374 4174 1372 4075 2519 4079 2518 4169"/></Shape>
-	    <String CONTENT=""
-                    HPOS="1372"
-                    VPOS="4075"
-                    WIDTH="1147"
-                    HEIGHT="113"></String>
+                    BASELINE="1370 4156 2196 4146" 
+                    HPOS="1361"
+                    VPOS="4053"
+                    WIDTH="831"
+                    HEIGHT="127">
+            <Shape><Polygon POINTS="1366 4152 1366 4180 2188 4166 2192 4142 2178 4053 1361 4058 1366 4152"/></Shape>
+	    <String CONTENT="A plente p᷑ ce q̃ lisires"
+                    HPOS="1361"
+                    VPOS="4053"
+                    WIDTH="831"
+                    HEIGHT="127"
+                    WC="0.9625272059440613"></String>
           </TextLine>
           <TextLine ID="eSc_line_b43b3ed9"
                     TAGREFS="LT8"
