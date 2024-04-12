@@ -1995,12 +1995,13 @@
                     WC="0.9764306700747946"></String>
           </TextLine>
           <TextLine ID="eSc_line_9a36384b"
+                    TAGREFS="LT8"
                     BASELINE="2591 4592 3421 4561" 
                     HPOS="2582"
                     VPOS="4494"
                     WIDTH="836"
                     HEIGHT="155">
-            <Shape><Polygon POINTS="2587 4588 2587 4635 3268 4649 3273 4649 3277 4649 3418 4602 3418 4560 3404 4494 2582 4513 2587 4588"/></Shape>
+            <Shape><Polygon POINTS="2587 4635 3268 4649 3273 4649 3277 4649 3418 4602 3418 4560 3404 4494 2582 4513 2587 4588"/></Shape>
 	    <String CONTENT="Ut paradic uint acorait"
                     HPOS="2582"
                     VPOS="4494"
