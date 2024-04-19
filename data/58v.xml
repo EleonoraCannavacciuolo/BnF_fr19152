@@ -711,19 +711,6 @@
                     HEIGHT="122"
                     WC="0.988641578417558"></String>
           </TextLine>
-          <TextLine ID="eSc_line_b4464092"
-                    BASELINE="189 1461 198 1455" 
-                    HPOS="145"
-                    VPOS="1374"
-                    WIDTH="85"
-                    HEIGHT="160">
-            <Shape><Polygon POINTS="187 1459 225 1534 230 1534 225 1515 197 1454 150 1374 145 1374 187 1459"/></Shape>
-	    <String CONTENT=""
-                    HPOS="145"
-                    VPOS="1374"
-                    WIDTH="85"
-                    HEIGHT="160"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="1334"
                    VPOS="110"
