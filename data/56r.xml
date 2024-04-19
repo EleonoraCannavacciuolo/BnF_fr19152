@@ -30,17 +30,17 @@
           <Shape><Polygon POINTS="152 125 96 4609 139 4653 369 4882 1135 4906 1142 3219 1216 3161 1216 3119 1143 3014 1144 2887 1207 2794 1222 2719 1145 2638 1157 131"/></Shape>
           <TextLine ID="eSc_line_c95a84a5"
                     TAGREFS="LT8"
-                    BASELINE="186 323 594 307 1020 310" 
-                    HPOS="186"
-                    VPOS="248"
-                    WIDTH="834"
-                    HEIGHT="100">
-            <Shape><Polygon POINTS="1004 251 954 248 930 248 898 248 867 251 836 251 805 251 774 254 743 254 712 254 681 257 650 257 618 257 587 261 556 261 525 261 494 261 463 264 432 264 401 264 370 267 339 267 307 267 276 270 245 270 214 270 192 292 186 323 186 345 1014 348 1020 310 1017 257 1004 251"/></Shape>
+                    BASELINE="186 323 1020 310" 
+                    HPOS="172"
+                    VPOS="181"
+                    WIDTH="845"
+                    HEIGHT="187">
+            <Shape><Polygon POINTS="181 321 181 368 1012 354 1017 307 1003 205 555 228 172 181 181 321"/></Shape>
 	    <String CONTENT="U ostre cheual a siest forz"
-                    HPOS="186"
-                    VPOS="248"
-                    WIDTH="834"
-                    HEIGHT="100"
+                    HPOS="172"
+                    VPOS="181"
+                    WIDTH="845"
+                    HEIGHT="187"
                     WC="0.9799667243604306"></String>
           </TextLine>
           <TextLine ID="eSc_line_c6a37722"
@@ -720,6 +720,7 @@
                     WC="0.9834639267487959"></String>
           </TextLine>
           <TextLine ID="eSc_line_07edaf6c"
+                    TAGREFS="LT9"
                     BASELINE="1165 3171 1362 3174" 
                     HPOS="1161"
                     VPOS="2964"
