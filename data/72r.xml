@@ -1402,7 +1402,7 @@
                    HEIGHT="4591"
                    ID="eSc_textblock_66e35fb7"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="2268 110 2268 3491 2268 4701 3432 4701 3432 110"/></Shape>
+          <Shape><Polygon POINTS="2268 110 2268 3491 2268 3500 2268 4701 3432 4701 3432 110"/></Shape>
           <TextLine ID="eSc_line_5dc2fd0e"
                     TAGREFS="LT8"
                     BASELINE="2283 248 3309 223" 
@@ -2070,7 +2070,7 @@
                    HEIGHT="286"
                    ID="eSc_textblock_9da89abd"
                    TAGREFS="BT10">
-          <Shape><Polygon POINTS="2255 3286 2255 3572 2476 3572 2476 3286"/></Shape>
+          <Shape><Polygon POINTS="2255 3286 2255 3572 2476 3572 2476 3286 2390 3286"/></Shape>
           <TextLine ID="eSc_line_8d698251"
                     TAGREFS="LT9"
                     BASELINE="2275 3545 2443 3542" 
