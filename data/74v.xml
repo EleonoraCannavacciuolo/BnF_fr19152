@@ -1524,7 +1524,7 @@
                     VPOS="839"
                     WIDTH="113"
                     HEIGHT="155">
-            <Shape><Polygon POINTS="2282 980 2282 994 2386 994 2386 975 2372 839 2273 844 2282 980"/></Shape>
+            <Shape><Polygon POINTS="2282 994 2386 994 2386 975 2372 839 2273 844 2282 980"/></Shape>
 	    <String CONTENT="5"
                     HPOS="2273"
                     VPOS="839"
@@ -1585,7 +1585,7 @@
                     VPOS="380"
                     WIDTH="798"
                     HEIGHT="131">
-            <Shape><Polygon POINTS="2465 450 2461 497 3250 511 3259 473 3255 389 2465 380 2465 450"/></Shape>
+            <Shape><Polygon POINTS="2461 497 3250 511 3259 473 3255 389 2465 380 2465 450"/></Shape>
 	    <String CONTENT="H ui li brise la main"
                     HPOS="2461"
                     VPOS="380"
@@ -2261,7 +2261,7 @@
                     VPOS="3415"
                     WIDTH="104"
                     HEIGHT="244">
-            <Shape><Polygon POINTS="2221 3565 2226 3659 2325 3626 2325 3565 2320 3415 2221 3415 2221 3565"/></Shape>
+            <Shape><Polygon POINTS="2226 3659 2325 3626 2325 3565 2320 3415 2221 3415 2221 3565"/></Shape>
 	    <String CONTENT="4"
                     HPOS="2221"
                     VPOS="3415"
@@ -2279,17 +2279,17 @@
           <Shape><Polygon POINTS="2165 4288 2165 4477 2359 4477 2359 4288"/></Shape>
           <TextLine ID="eSc_line_8cc1c08e"
                     TAGREFS="LT7"
-                    BASELINE="2192 4453 2329 4450" 
+                    BASELINE="2192 4453 2322 4450" 
                     HPOS="2179"
-                    VPOS="4330"
-                    WIDTH="146"
-                    HEIGHT="141">
-            <Shape><Polygon POINTS="2188 4471 2325 4461 2325 4447 2310 4330 2179 4330 2188 4452"/></Shape>
+                    VPOS="4325"
+                    WIDTH="141"
+                    HEIGHT="146">
+            <Shape><Polygon POINTS="2188 4452 2188 4471 2320 4461 2320 4447 2306 4325 2179 4330 2188 4452"/></Shape>
 	    <String CONTENT="5"
                     HPOS="2179"
-                    VPOS="4330"
-                    WIDTH="146"
-                    HEIGHT="141"
+                    VPOS="4325"
+                    WIDTH="141"
+                    HEIGHT="146"
                     WC="0.9999526739120483"></String>
           </TextLine>
         </TextBlock>
