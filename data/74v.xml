@@ -52,13 +52,13 @@
                    TAGREFS="BT54">
           <Shape><Polygon POINTS="84 49 84 4743 894 4743 1075 4651 1074 4381 1221 4297 1220 3772 1099 3697 1079 3479 1235 3431 1258 1943 1119 1882 1134 1691 1319 1596 1331 1000 1154 974 1164 822 1324 775 1395 101"/></Shape>
           <TextLine ID="eSc_line_ecca2101"
-                    TAGREFS="LT8"
+                    TAGREFS="LT7"
                     BASELINE="183 340 290 343" 
                     HPOS="173"
                     VPOS="229"
                     WIDTH="113"
                     HEIGHT="141">
-            <Shape><Polygon POINTS="272 229 225 229 178 229 178 337 173 351 277 370 286 342 281 229 272 229"/></Shape>
+            <Shape><Polygon POINTS="225 229 178 229 178 337 173 351 277 370 286 342 281 229 272 229"/></Shape>
 	    <String CONTENT="5"
                     HPOS="173"
                     VPOS="229"
@@ -1519,17 +1519,17 @@
           <Shape><Polygon POINTS="2259 834 2259 1002 2417 1002 2417 834"/></Shape>
           <TextLine ID="eSc_line_88393904"
                     TAGREFS="LT7"
-                    BASELINE="2286 978 2390 978" 
-                    HPOS="2282"
-                    VPOS="849"
-                    WIDTH="104"
-                    HEIGHT="150">
-            <Shape><Polygon POINTS="2282 994 2381 999 2386 975 2381 849 2282 849 2282 975"/></Shape>
+                    BASELINE="2286 984 2390 978" 
+                    HPOS="2273"
+                    VPOS="839"
+                    WIDTH="113"
+                    HEIGHT="155">
+            <Shape><Polygon POINTS="2282 980 2282 994 2386 994 2386 975 2372 839 2273 844 2282 980"/></Shape>
 	    <String CONTENT="5"
-                    HPOS="2282"
-                    VPOS="849"
-                    WIDTH="104"
-                    HEIGHT="150"
+                    HPOS="2273"
+                    VPOS="839"
+                    WIDTH="113"
+                    HEIGHT="155"
                     WC="0.9999215602874756"></String>
           </TextLine>
         </TextBlock>
@@ -2256,16 +2256,16 @@
           <Shape><Polygon POINTS="2195 3407 2195 3589 2359 3589 2359 3407"/></Shape>
           <TextLine ID="eSc_line_ec9fc2e0"
                     TAGREFS="LT7"
-                    BASELINE="2225 3568 2333 3568" 
+                    BASELINE="2225 3568 2327 3568" 
                     HPOS="2221"
                     VPOS="3415"
-                    WIDTH="108"
+                    WIDTH="104"
                     HEIGHT="244">
-            <Shape><Polygon POINTS="2226 3659 2329 3621 2329 3565 2325 3415 2221 3415 2221 3565"/></Shape>
+            <Shape><Polygon POINTS="2221 3565 2226 3659 2325 3626 2325 3565 2320 3415 2221 3415 2221 3565"/></Shape>
 	    <String CONTENT="4"
                     HPOS="2221"
                     VPOS="3415"
-                    WIDTH="108"
+                    WIDTH="104"
                     HEIGHT="244"
                     WC="0.9912021160125732"></String>
           </TextLine>
