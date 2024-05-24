@@ -720,6 +720,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="974 793 974 959 1147 959 1147 793"/></Shape>
           <TextLine ID="eSc_line_179add6d"
+                    TAGREFS="LT7"
                     BASELINE="996 933 1121 933" 
                     HPOS="993"
                     VPOS="797"
@@ -742,6 +743,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="937 1582 937 1751 1096 1751 1096 1582"/></Shape>
           <TextLine ID="eSc_line_e7f24507"
+                    TAGREFS="LT7"
                     BASELINE="959 1725 1077 1729" 
                     HPOS="951"
                     VPOS="1599"
@@ -1455,6 +1457,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="1000 3279 1000 3441 1121 3441 1121 3279"/></Shape>
           <TextLine ID="eSc_line_a7ac4de5"
+                    TAGREFS="LT7"
                     BASELINE="1018 3425 1107 3422" 
                     HPOS="1007"
                     VPOS="3282"
@@ -1477,6 +1480,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="963 4182 963 4348 1121 4348 1121 4182"/></Shape>
           <TextLine ID="eSc_line_d5535811"
+                    TAGREFS="LT7"
                     BASELINE="985 4320 1107 4320" 
                     HPOS="984"
                     VPOS="4196"
@@ -1499,6 +1503,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="1935 580 1935 789 2119 789 2119 580"/></Shape>
           <TextLine ID="eSc_line_c89d979d"
+                    TAGREFS="LT7"
                     BASELINE="1960 760 2089 756" 
                     HPOS="1950"
                     VPOS="603"
@@ -1544,6 +1549,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="1975 2053 1975 2237 2148 2237 2148 2053"/></Shape>
           <TextLine ID="eSc_line_7dddc3fc"
+                    TAGREFS="LT7"
                     BASELINE="2005 2207 2122 2204" 
                     HPOS="1992"
                     VPOS="2074"
@@ -2234,6 +2240,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="1979 2860 1979 3040 2133 3040 2133 2860"/></Shape>
           <TextLine ID="eSc_line_2900cdc3"
+                    TAGREFS="LT7"
                     BASELINE="1997 3013 2111 3010" 
                     HPOS="1987"
                     VPOS="2872"
@@ -2279,6 +2286,7 @@
                    TAGREFS="BT13">
           <Shape><Polygon POINTS="2005 4484 2005 4668 2148 4668 2148 4484"/></Shape>
           <TextLine ID="eSc_line_c2f398d6"
+                    TAGREFS="LT7"
                     BASELINE="2027 4632 2126 4636" 
                     HPOS="2017"
                     VPOS="4503"
