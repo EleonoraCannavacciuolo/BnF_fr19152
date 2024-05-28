@@ -92,3 +92,27 @@ Non-trainable params: 0
 Total params: 1.3 M                                                             
 Total estimated model params size (MB): 5                                       
 SLURM auto-requeueing enabled. Setting signal handlers.
+stage 0/50 ━━━━━━━━━━━━━━━━ 152/152 0:04:18 • 0:00:00 0.60it/s val_accuracy:    
+                                                               0.978            
+                                                               val_mean_acc:    
+                                                               0.978            
+                                                               val_mean_iu:     
+                                                               0.056            
+                                                               val_freq_iu:     
+                                                               0.665            
+stage 1/50 ━━━━━━━━━━━━━━━━ 152/152 0:04:08 • 0:00:00 0.62it/s val_accuracy:    
+                                                               0.988            
+                                                               val_mean_acc:    
+                                                               0.988            
+                                                               val_mean_iu:     
+                                                               0.108            
+                                                               val_freq_iu:     
+                                                               0.814            
+stage 2/50 ━━━━━━━━━━━━━━━━ 152/152 0:04:10 • 0:00:00 0.61it/s val_accuracy:    
+                                                               0.989            
+                                                               val_mean_acc:    
+                                                               0.989            
+                                                               val_mean_iu:     
+                                                               0.125            
+                                                               val_freq_iu:     
+                                                               0.841            
