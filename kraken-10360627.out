@@ -1,0 +1,94 @@
+KETOS training
+scikit-learn version 1.2.2 is not supported. Minimum required version: 0.17. Maximum required version: 1.1.2. Disabling scikit-learn conversion API.
+Torch version 2.1.2+cu121 has not been tested with coremltools. You may run into unexpected errors. Torch 2.0.0 is the most recent version that has been tested.
+Training line types:
+  DropCapitalLine	2	625
+  DefaultLine	3	22219
+  CustomLine	6	126
+  HeadingLine	8	78
+  InterlinearLine:addition	11	4
+  default	12	1
+  InterlinearLine	14	3
+Training region types:
+  DropCapitalZone	4	163
+  MainZone:column	5	169
+  MarginTextZone	7	53
+  DigitizationArtefactZone	9	6
+  DropCapitalZone:floriate	10	4
+  text	13	1
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+`Trainer(val_check_interval=1.0)` was configured so validation will run at the end of the training epoch..
+You are using a CUDA device ('NVIDIA RTX A5500') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+[05/28/24 20:48:09] WARNING  Setting baseline location to baseline train.py:1030
+                             from unset model.                                  
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+┏━━━━┳━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━┓
+┃    ┃ Name              ┃ Type         ┃ Params ┃     In sizes ┃    Out sizes ┃
+┡━━━━╇━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━┩
+│ 0  │ net               │ MultiParamS… │  1.3 M │ [1, 3, 1800, │     [[1, 15, │
+│    │                   │              │        │         300] │    450, 75], │
+│    │                   │              │        │              │         '?'] │
+│ 1  │ net.C_0           │ ActConv2D    │  9.5 K │      [[1, 3, │     [[1, 64, │
+│    │                   │              │        │  1800, 300], │   900, 150], │
+│    │                   │              │        │         '?'] │         '?'] │
+│ 2  │ net.Gn_1          │ GroupNorm    │    128 │     [[1, 64, │     [[1, 64, │
+│    │                   │              │        │   900, 150], │   900, 150], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 3  │ net.C_2           │ ActConv2D    │ 73.9 K │     [[1, 64, │    [[1, 128, │
+│    │                   │              │        │   900, 150], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 4  │ net.Gn_3          │ GroupNorm    │    256 │    [[1, 128, │    [[1, 128, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 5  │ net.C_4           │ ActConv2D    │  147 K │    [[1, 128, │    [[1, 128, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 6  │ net.Gn_5          │ GroupNorm    │    256 │    [[1, 128, │    [[1, 128, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 7  │ net.C_6           │ ActConv2D    │  295 K │    [[1, 128, │    [[1, 256, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 8  │ net.Gn_7          │ GroupNorm    │    512 │    [[1, 256, │    [[1, 256, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 9  │ net.C_8           │ ActConv2D    │  590 K │    [[1, 256, │    [[1, 256, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 10 │ net.Gn_9          │ GroupNorm    │    512 │    [[1, 256, │    [[1, 256, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 11 │ net.L_10          │ TransposedS… │ 74.2 K │    [[1, 256, │     [[1, 64, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 12 │ net.L_11          │ TransposedS… │ 25.1 K │     [[1, 64, │     [[1, 64, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 13 │ net.C_12          │ ActConv2D    │  2.1 K │     [[1, 64, │     [[1, 32, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 14 │ net.Gn_13         │ GroupNorm    │     64 │     [[1, 32, │     [[1, 32, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 15 │ net.L_14          │ TransposedS… │ 16.9 K │     [[1, 32, │     [[1, 64, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 16 │ net.L_15          │ TransposedS… │ 25.1 K │     [[1, 64, │     [[1, 64, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 17 │ net.l_16          │ ActConv2D    │    975 │     [[1, 64, │     [[1, 15, │
+│    │                   │              │        │    450, 75], │    450, 75], │
+│    │                   │              │        │    '?', '?'] │         '?'] │
+│ 18 │ val_px_accuracy   │ MultilabelA… │      0 │            ? │            ? │
+│ 19 │ val_mean_accuracy │ MultilabelA… │      0 │            ? │            ? │
+│ 20 │ val_mean_iu       │ MultilabelJ… │      0 │            ? │            ? │
+│ 21 │ val_freq_iu       │ MultilabelJ… │      0 │            ? │            ? │
+└────┴───────────────────┴──────────────┴────────┴──────────────┴──────────────┘
+Trainable params: 1.3 M                                                         
+Non-trainable params: 0                                                         
+Total params: 1.3 M                                                             
+Total estimated model params size (MB): 5                                       
+SLURM auto-requeueing enabled. Setting signal handlers.
