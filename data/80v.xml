@@ -2117,30 +2117,6 @@
                    TAGREFS="BT54">
           <Shape><Polygon POINTS="172 4788 162 4788 162 4779 172 4779"/></Shape>
         </TextBlock>
-        <TextBlock HPOS="2365"
-                   VPOS="4904"
-                   WIDTH="9"
-                   HEIGHT="9"
-                   ID="eSc_textblock_32d5df9c"
-                   TAGREFS="BT54">
-          <Shape><Polygon POINTS="2374 4913 2365 4913 2365 4904 2374 4907"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="1676"
-                   VPOS="4766"
-                   WIDTH="10"
-                   HEIGHT="10"
-                   ID="eSc_textblock_8dff2835"
-                   TAGREFS="BT54">
-          <Shape><Polygon POINTS="1686 4776 1676 4776 1676 4766 1686 4769"/></Shape>
-        </TextBlock>
-        <TextBlock HPOS="876"
-                   VPOS="4791"
-                   WIDTH="46"
-                   HEIGHT="10"
-                   ID="eSc_textblock_2cf91d8f"
-                   TAGREFS="BT54">
-          <Shape><Polygon POINTS="922 4791 922 4801 876 4801 885 4791"/></Shape>
-        </TextBlock>
       </PrintSpace>
     </Page>
   </Layout>
