@@ -697,12 +697,13 @@
                     WC="0.992214081188043"></String>
           </TextLine>
           <TextLine ID="eSc_line_8bdd385a"
+                    TAGREFS="LT8"
                     BASELINE="1195 1804 2056 1809" 
                     HPOS="1189"
                     VPOS="1725"
                     WIDTH="863"
                     HEIGHT="121">
-            <Shape><Polygon POINTS="1194 1767 1194 1799 1189 1846 2048 1846 2052 1804 2043 1725 1217 1729 1194 1767"/></Shape>
+            <Shape><Polygon POINTS="1194 1799 1189 1846 2048 1846 2052 1804 2043 1725 1217 1729 1194 1767"/></Shape>
 	    <String CONTENT="M amtenãt a le cercot pͥs"
                     HPOS="1189"
                     VPOS="1725"
@@ -1034,6 +1035,7 @@
                     WC="0.9611893177032471"></String>
           </TextLine>
           <TextLine ID="eSc_line_6448c6c7"
+                    TAGREFS="LT8"
                     BASELINE="1181 2296 2214 2300" 
                     HPOS="1175"
                     VPOS="2210"
