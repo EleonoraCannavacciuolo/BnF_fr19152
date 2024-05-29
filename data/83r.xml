@@ -1560,6 +1560,66 @@
                     HEIGHT="112"
                     WC="0.9791353879303768"></String>
           </TextLine>
+          <TextLine ID="eSc_line_fd145e89"
+                    TAGREFS="LT8"
+                    BASELINE="2326 1143 3094 1131" 
+                    HPOS="2323"
+                    VPOS="1069"
+                    WIDTH="771"
+                    HEIGHT="124">
+            <Shape><Polygon POINTS="2326 1143 2326 1193 3094 1162 3094 1131 3091 1084 3054 1069 3051 1069 3048 1069 2964 1084 2945 1069 2942 1069 2939 1069 2936 1069 2933 1069 2895 1084 2886 1087 2852 1084 2703 1072 2699 1072 2323 1087 2326 1143"/></Shape>
+	    <String CONTENT="L ioreill de uioletes"
+                    HPOS="2323"
+                    VPOS="1069"
+                    WIDTH="771"
+                    HEIGHT="124"
+                    WC="0.951331635316213"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4428edc0"
+                    TAGREFS="LT8"
+                    BASELINE="2329 1237 3147 1227" 
+                    HPOS="2326"
+                    VPOS="1162"
+                    WIDTH="821"
+                    HEIGHT="115">
+            <Shape><Polygon POINTS="2329 1237 2329 1277 3144 1261 3147 1227 3138 1162 2824 1181 2777 1174 2724 1165 2721 1165 2640 1178 2625 1181 2606 1165 2603 1165 2600 1165 2597 1165 2516 1184 2507 1184 2497 1184 2360 1168 2357 1168 2354 1168 2351 1168 2326 1181 2329 1237"/></Shape>
+	    <String CONTENT="A uons auꝑ al̾ couch̾"
+                    HPOS="2326"
+                    VPOS="1162"
+                    WIDTH="821"
+                    HEIGHT="115"
+                    WC="0.9953529891513643"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_4267d0c7"
+                    TAGREFS="LT8"
+                    BASELINE="2332 1327 3278 1324" 
+                    HPOS="2323"
+                    VPOS="1263"
+                    WIDTH="952"
+                    HEIGHT="117">
+            <Shape><Polygon POINTS="2323 1310 2328 1324 2328 1380 3275 1361 3275 1319 3266 1263 2351 1263 2323 1310"/></Shape>
+	    <String CONTENT="C est pͤ soef metre le chief"
+                    HPOS="2323"
+                    VPOS="1263"
+                    WIDTH="952"
+                    HEIGHT="117"
+                    WC="0.9758764015776771"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_2c188f9e"
+                    TAGREFS="LT8"
+                    BASELINE="2332 1432 3238 1426" 
+                    HPOS="2329"
+                    VPOS="1361"
+                    WIDTH="909"
+                    HEIGHT="109">
+            <Shape><Polygon POINTS="2332 1432 2332 1470 3238 1457 3238 1426 3231 1380 3110 1380 3110 1376 3094 1364 3094 1361 3091 1361 3088 1361 3085 1361 3082 1361 3079 1361 3054 1376 2989 1361 2986 1361 2982 1361 2979 1361 2920 1376 2914 1376 2908 1376 2830 1361 2827 1361 2759 1373 2731 1380 2329 1373 2332 1432"/></Shape>
+	    <String CONTENT="⁊ qnͣt te uiẽt a la ꝑclose"
+                    HPOS="2329"
+                    VPOS="1361"
+                    WIDTH="909"
+                    HEIGHT="109"
+                    WC="0.9690427471090246"></String>
+          </TextLine>
           <TextLine ID="eSc_line_98dff285"
                     TAGREFS="LT8"
                     BASELINE="2326 1529 3203 1529" 
@@ -1815,6 +1875,21 @@
                     HEIGHT="131"
                     WC="0.9871802425384522"></String>
           </TextLine>
+          <TextLine ID="eSc_line_6700a708"
+                    TAGREFS="LT8"
+                    BASELINE="2320 3217 3312 3204" 
+                    HPOS="2317"
+                    VPOS="3136"
+                    WIDTH="995"
+                    HEIGHT="133">
+            <Shape><Polygon POINTS="2320 3217 2323 3269 2367 3251 2647 3260 2771 3263 2774 3263 3309 3238 3312 3204 3303 3136 3038 3158 2849 3145 2846 3145 2843 3145 2796 3161 2317 3148 2320 3217"/></Shape>
+	    <String CONTENT="Ha: beax sire seez nos donq̃s"
+                    HPOS="2317"
+                    VPOS="3136"
+                    WIDTH="995"
+                    HEIGHT="133"
+                    WC="0.9422396483092472"></String>
+          </TextLine>
           <TextLine ID="eSc_line_f98f3db5"
                     TAGREFS="LT8"
                     BASELINE="2469 3316 3353 3316" 
@@ -2032,83 +2107,6 @@
                     WIDTH="240"
                     HEIGHT="336"
                     WC="0.999998927116394"></String>
-          </TextLine>
-        </TextBlock>
-        <TextBlock ID="eSc_dummyblock_">
-          <TextLine ID="eSc_line_fd145e89"
-                    TAGREFS="LT8"
-                    BASELINE="2326 1143 3094 1131" 
-                    HPOS="2323"
-                    VPOS="1069"
-                    WIDTH="771"
-                    HEIGHT="124">
-            <Shape><Polygon POINTS="2326 1143 2326 1193 3094 1162 3094 1131 3091 1084 3054 1069 3051 1069 3048 1069 2964 1084 2945 1069 2942 1069 2939 1069 2936 1069 2933 1069 2895 1084 2886 1087 2852 1084 2703 1072 2699 1072 2323 1087 2326 1143"/></Shape>
-	    <String CONTENT="L ioreill de uioletes"
-                    HPOS="2323"
-                    VPOS="1069"
-                    WIDTH="771"
-                    HEIGHT="124"
-                    WC="0.951331635316213"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_4428edc0"
-                    TAGREFS="LT8"
-                    BASELINE="2329 1237 3147 1227" 
-                    HPOS="2326"
-                    VPOS="1162"
-                    WIDTH="821"
-                    HEIGHT="115">
-            <Shape><Polygon POINTS="2329 1237 2329 1277 3144 1261 3147 1227 3138 1162 2824 1181 2777 1174 2724 1165 2721 1165 2640 1178 2625 1181 2606 1165 2603 1165 2600 1165 2597 1165 2516 1184 2507 1184 2497 1184 2360 1168 2357 1168 2354 1168 2351 1168 2326 1181 2329 1237"/></Shape>
-	    <String CONTENT="A uons auꝑ al̾ couch̾"
-                    HPOS="2326"
-                    VPOS="1162"
-                    WIDTH="821"
-                    HEIGHT="115"
-                    WC="0.9953529891513643"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_4267d0c7"
-                    TAGREFS="LT8"
-                    BASELINE="2332 1327 3278 1324" 
-                    HPOS="2323"
-                    VPOS="1263"
-                    WIDTH="952"
-                    HEIGHT="117">
-            <Shape><Polygon POINTS="2323 1310 2328 1324 2328 1380 3275 1361 3275 1319 3266 1263 2351 1263 2323 1310"/></Shape>
-	    <String CONTENT="C est pͤ soef metre le chief"
-                    HPOS="2323"
-                    VPOS="1263"
-                    WIDTH="952"
-                    HEIGHT="117"
-                    WC="0.9758764015776771"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_2c188f9e"
-                    TAGREFS="LT8"
-                    BASELINE="2332 1432 3238 1426" 
-                    HPOS="2329"
-                    VPOS="1361"
-                    WIDTH="909"
-                    HEIGHT="109">
-            <Shape><Polygon POINTS="2332 1432 2332 1470 3238 1457 3238 1426 3231 1380 3110 1380 3110 1376 3094 1364 3094 1361 3091 1361 3088 1361 3085 1361 3082 1361 3079 1361 3054 1376 2989 1361 2986 1361 2982 1361 2979 1361 2920 1376 2914 1376 2908 1376 2830 1361 2827 1361 2759 1373 2731 1380 2329 1373 2332 1432"/></Shape>
-	    <String CONTENT="⁊ qnͣt te uiẽt a la ꝑclose"
-                    HPOS="2329"
-                    VPOS="1361"
-                    WIDTH="909"
-                    HEIGHT="109"
-                    WC="0.9690427471090246"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_6700a708"
-                    TAGREFS="LT8"
-                    BASELINE="2320 3217 3312 3204" 
-                    HPOS="2317"
-                    VPOS="3136"
-                    WIDTH="995"
-                    HEIGHT="133">
-            <Shape><Polygon POINTS="2320 3217 2323 3269 2367 3251 2647 3260 2771 3263 2774 3263 3309 3238 3312 3204 3303 3136 3038 3158 2849 3145 2846 3145 2843 3145 2796 3161 2317 3148 2320 3217"/></Shape>
-	    <String CONTENT="Ha: beax sire seez nos donq̃s"
-                    HPOS="2317"
-                    VPOS="3136"
-                    WIDTH="995"
-                    HEIGHT="133"
-                    WC="0.9422396483092472"></String>
           </TextLine>
         </TextBlock>
       </PrintSpace>
