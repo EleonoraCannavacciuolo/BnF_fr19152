@@ -278,17 +278,17 @@
           </TextLine>
           <TextLine ID="eSc_line_080300ed"
                     TAGREFS="LT8"
-                    BASELINE="220 1694 883 1694" 
-                    HPOS="220"
-                    VPOS="1644"
-                    WIDTH="663"
-                    HEIGHT="99">
-            <Shape><Polygon POINTS="220 1694 220 1725 255 1743 258 1743 261 1743 264 1743 311 1728 435 1743 438 1743 510 1728 513 1728 519 1728 709 1743 712 1743 883 1728 883 1694 883 1644 220 1644 220 1694"/></Shape>
+                    BASELINE="159 1694 883 1694" 
+                    HPOS="158"
+                    VPOS="1636"
+                    WIDTH="723"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="158 1692 158 1729 279 1757 284 1757 289 1757 387 1734 447 1757 452 1757 457 1762 844 1762 844 1757 849 1757 853 1757 881 1734 881 1692 881 1636 158 1636 158 1692"/></Shape>
 	    <String CONTENT="mandez uin ⁊ aloez"
-                    HPOS="220"
-                    VPOS="1644"
-                    WIDTH="663"
-                    HEIGHT="99"
+                    HPOS="158"
+                    VPOS="1636"
+                    WIDTH="723"
+                    HEIGHT="126"
                     WC="0.9976385037104288"></String>
           </TextLine>
           <TextLine ID="eSc_line_f72d6e28"
@@ -712,6 +712,7 @@
                     WC="0.954674705862999"></String>
           </TextLine>
           <TextLine ID="eSc_line_b54d3803"
+                    TAGREFS="LT8"
                     BASELINE="1242 929 2242 929" 
                     HPOS="1241"
                     VPOS="853"
@@ -1379,6 +1380,7 @@
                     WC="0.9943620450794697"></String>
           </TextLine>
           <TextLine ID="eSc_line_fafd1774"
+                    TAGREFS="LT8"
                     BASELINE="2324 3909 3241 3919" 
                     HPOS="2318"
                     VPOS="3846"
