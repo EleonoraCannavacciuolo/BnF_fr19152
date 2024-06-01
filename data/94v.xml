@@ -50,7 +50,7 @@
                    HEIGHT="4853"
                    ID="eSc_textblock_bd1ab74d"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="156 74 156 4863 1468 4927 1424 2159 1416 115"/></Shape>
+          <Shape><Polygon POINTS="156 74 156 1049 156 4863 1468 4927 1424 2159 1416 115"/></Shape>
           <TextLine ID="eSc_line_531c7af5"
                     TAGREFS="LT8"
                     BASELINE="350 294 1273 294" 
@@ -741,7 +741,7 @@
                    HEIGHT="4654"
                    ID="eSc_textblock_50d6419e"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="1424 93 1495 4747 2556 4718 2549 4568 2610 4504 2628 4461 2551 4380 2547 4068 2594 3997 2632 3940 2544 3862 2536 3234 2569 3194 2612 3141 2606 3005 2532 2936 2518 2327 2675 2173 2678 2107 2521 2038 2522 1745 2621 1667 2607 1597 2515 1548 2496 108"/></Shape>
+          <Shape><Polygon POINTS="1424 93 1456 2211 1495 4747 2556 4718 2549 4568 2610 4504 2628 4461 2551 4380 2547 4068 2594 3997 2632 3940 2544 3862 2536 3234 2569 3194 2612 3141 2606 3005 2529 2953 2518 2327 2675 2173 2678 2107 2521 2038 2522 1745 2621 1667 2607 1597 2515 1548 2496 108"/></Shape>
           <TextLine ID="eSc_line_e2f9d5eb"
                     TAGREFS="LT8"
                     BASELINE="1467 287 2477 287" 
@@ -1402,42 +1402,14 @@
                     HEIGHT="156"
                     WC="0.9869110894203186"></String>
           </TextLine>
-          <TextLine ID="eSc_line_5ca9de78"
-                    BASELINE="2600 1635 3403 1635" 
-                    HPOS="2597"
-                    VPOS="1571"
-                    WIDTH="803"
-                    HEIGHT="132">
-            <Shape><Polygon POINTS="2597 1595 2597 1632 2597 1703 3400 1684 3400 1632 3400 1576 2616 1571 2597 1595"/></Shape>
-	    <String CONTENT="A faire lestuet totes ri ges"
-                    HPOS="2597"
-                    VPOS="1571"
-                    WIDTH="803"
-                    HEIGHT="132"
-                    WC="0.9372911538396563"></String>
-          </TextLine>
-          <TextLine ID="eSc_line_5a957b56"
-                    BASELINE="2610 2132 3413 2126" 
-                    HPOS="2602"
-                    VPOS="2064"
-                    WIDTH="808"
-                    HEIGHT="131">
-            <Shape><Polygon POINTS="2649 2097 2602 2120 2606 2130 2606 2181 3400 2195 3410 2125 3395 2064 2667 2064 2649 2097"/></Shape>
-	    <String CONTENT="Mais ce tu uels croire is"
-                    HPOS="2602"
-                    VPOS="2064"
-                    WIDTH="808"
-                    HEIGHT="131"
-                    WC="0.9202477741241455"></String>
-          </TextLine>
         </TextBlock>
         <TextBlock HPOS="2513"
                    VPOS="167"
                    WIDTH="977"
-                   HEIGHT="4571"
+                   HEIGHT="4566"
                    ID="eSc_textblock_60a7fb20"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="2513 167 2574 4738 3490 4708 3490 167"/></Shape>
+          <Shape><Polygon POINTS="2513 167 2548 2773 2549 2871 2574 4733 3490 4708 3490 167"/></Shape>
           <TextLine ID="eSc_line_f3798a17"
                     TAGREFS="LT8"
                     BASELINE="2562 284 3403 303" 
@@ -1648,6 +1620,21 @@
                     HEIGHT="106"
                     WC="0.9765295004844665"></String>
           </TextLine>
+          <TextLine ID="eSc_line_5ca9de78"
+                    TAGREFS="LT8"
+                    BASELINE="2600 1635 3403 1635" 
+                    HPOS="2597"
+                    VPOS="1571"
+                    WIDTH="803"
+                    HEIGHT="132">
+            <Shape><Polygon POINTS="2597 1595 2597 1632 2597 1703 3400 1684 3400 1632 3400 1576 2616 1571 2597 1595"/></Shape>
+	    <String CONTENT="A faire lestuet totes ri ges"
+                    HPOS="2597"
+                    VPOS="1571"
+                    WIDTH="803"
+                    HEIGHT="132"
+                    WC="0.9372911538396563"></String>
+          </TextLine>
           <TextLine ID="eSc_line_da3cf639"
                     TAGREFS="LT8"
                     BASELINE="2584 1735 3403 1735" 
@@ -1707,6 +1694,21 @@
                     WIDTH="767"
                     HEIGHT="113"
                     WC="0.979895984584635"></String>
+          </TextLine>
+          <TextLine ID="eSc_line_5a957b56"
+                    TAGREFS="LT8"
+                    BASELINE="2610 2132 3413 2126" 
+                    HPOS="2602"
+                    VPOS="2064"
+                    WIDTH="808"
+                    HEIGHT="131">
+            <Shape><Polygon POINTS="2649 2097 2602 2120 2606 2130 2606 2181 3400 2195 3410 2125 3395 2064 2667 2064 2649 2097"/></Shape>
+	    <String CONTENT="Mais ce tu uels croire is"
+                    HPOS="2602"
+                    VPOS="2064"
+                    WIDTH="808"
+                    HEIGHT="131"
+                    WC="0.9202477741241455"></String>
           </TextLine>
           <TextLine ID="eSc_line_b1dbbbae"
                     TAGREFS="LT8"
@@ -2069,13 +2071,13 @@
                     WC="0.9693112156607888"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="2529"
+        <TextBlock HPOS="2540"
                    VPOS="2652"
-                   WIDTH="258"
+                   WIDTH="247"
                    HEIGHT="282"
                    ID="eSc_textblock_6c3ed7a6"
                    TAGREFS="BT10">
-          <Shape><Polygon POINTS="2787 2689 2787 2926 2529 2934 2540 2714 2596 2652"/></Shape>
+          <Shape><Polygon POINTS="2787 2689 2787 2926 2543 2934 2540 2714 2596 2652"/></Shape>
           <TextLine ID="eSc_line_7ee2350c"
                     TAGREFS="LT9"
                     BASELINE="2557 2904 2776 2904" 
@@ -2091,14 +2093,6 @@
                     HEIGHT="398"
                     WC="0.9999152421951294"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="2615"
-                   VPOS="2627"
-                   WIDTH="22"
-                   HEIGHT="9"
-                   ID="eSc_textblock_e33aa54c"
-                   TAGREFS="BT10">
-          <Shape><Polygon POINTS="2637 2627 2637 2636 2615 2636 2621 2627"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
