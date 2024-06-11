@@ -1396,12 +1396,13 @@
                     WC="0.9935266232490539"></String>
           </TextLine>
           <TextLine ID="eSc_line_bf746d83"
+                    TAGREFS="LT8"
                     BASELINE="1203 4354 2130 4339" 
                     HPOS="1194"
                     VPOS="4280"
                     WIDTH="933"
                     HEIGHT="126">
-            <Shape><Polygon POINTS="1199 4350 1199 4406 2127 4382 2127 4336 2113 4280 1194 4289 1199 4350"/></Shape>
+            <Shape><Polygon POINTS="1199 4406 2127 4382 2127 4336 2113 4280 1194 4289 1199 4350"/></Shape>
 	    <String CONTENT="ceignorie apent. cõmẽt il"
                     HPOS="1194"
                     VPOS="4280"
