@@ -50,7 +50,7 @@
                    HEIGHT="4483"
                    ID="eSc_textblock_1af568b3"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="116 147 116 4550 1051 4593 1075 110"/></Shape>
+          <Shape><Polygon POINTS="116 150 116 4550 1051 4593 1075 110"/></Shape>
           <TextLine ID="eSc_line_4e8d90e9"
                     TAGREFS="LT8"
                     BASELINE="152 266 531 245 755 248" 
@@ -2300,14 +2300,6 @@
                     HEIGHT="227"
                     WC="0.9963648915290833"></String>
           </TextLine>
-        </TextBlock>
-        <TextBlock HPOS="1057"
-                   VPOS="1790"
-                   WIDTH="9"
-                   HEIGHT="9"
-                   ID="eSc_textblock_44f5d856"
-                   TAGREFS="BT54">
-          <Shape><Polygon POINTS="1066 1799 1057 1799 1057 1790 1063 1790"/></Shape>
         </TextBlock>
       </PrintSpace>
     </Page>
