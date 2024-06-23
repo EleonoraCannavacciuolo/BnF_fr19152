@@ -851,15 +851,17 @@
           <TextLine ID="eSc_line_4c2fadfa"
                     TAGREFS="LT8"
                     BASELINE="1188 636 1998 609" 
-                    HPOS="1188"
-                    VPOS="609"
-                    WIDTH="810"
-                    HEIGHT="27">
-	    <String CONTENT=""
-                    HPOS="1188"
-                    VPOS="609"
-                    WIDTH="810"
-                    HEIGHT="27"></String>
+                    HPOS="1180"
+                    VPOS="540"
+                    WIDTH="816"
+                    HEIGHT="136">
+            <Shape><Polygon POINTS="1185 634 1185 676 1996 657 1996 606 1982 540 1180 540 1185 634"/></Shape>
+	    <String CONTENT="P᷑ q̃l puist gaaignier"
+                    HPOS="1180"
+                    VPOS="540"
+                    WIDTH="816"
+                    HEIGHT="136"
+                    WC="0.9804452901536768"></String>
           </TextLine>
           <TextLine ID="eSc_line_b7431da3"
                     TAGREFS="LT8"
