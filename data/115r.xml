@@ -1441,7 +1441,7 @@
                     WIDTH="224"
                     HEIGHT="254">
             <Shape><Polygon POINTS="1003 2872 1175 2867 1175 2848 1218 2629 994 2618 1003 2848"/></Shape>
-	    <String CONTENT=""
+	    <String CONTENT="p"
                     HPOS="994"
                     VPOS="2618"
                     WIDTH="224"
