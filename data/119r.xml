@@ -30,16 +30,17 @@
           <Shape><Polygon POINTS="261 1045 259 1104 281 1163 277 1184 285 1286 265 1457 175 1499 137 1448 129 1447 88 1445 84 1184 74 1121 102 1070 130 1081"/></Shape>
           <TextLine ID="eSc_line_2c073d8a"
                     TAGREFS="LT9"
-                    BASELINE="111 1415 249 1421" 
-                    HPOS="111"
-                    VPOS="1415"
-                    WIDTH="138"
-                    HEIGHT="6">
-	    <String CONTENT=""
-                    HPOS="111"
-                    VPOS="1415"
-                    WIDTH="138"
-                    HEIGHT="6"></String>
+                    BASELINE="111 1415 173 1418 249 1421" 
+                    HPOS="64"
+                    VPOS="1055"
+                    WIDTH="237"
+                    HEIGHT="376">
+            <Shape><Polygon POINTS="102 1431 242 1426 247 1417 301 1055 64 1079 107 1412"/></Shape>
+	    <String CONTENT="P"
+                    HPOS="64"
+                    VPOS="1055"
+                    WIDTH="237"
+                    HEIGHT="376"></String>
           </TextLine>
         </TextBlock>
         <TextBlock HPOS="52"
@@ -217,16 +218,16 @@
           <TextLine ID="eSc_line_bbf9136f"
                     TAGREFS="LT8"
                     BASELINE="177 1347 1060 1342" 
-                    HPOS="167"
-                    VPOS="1268"
-                    WIDTH="892"
-                    HEIGHT="135">
-            <Shape><Polygon POINTS="172 1342 172 1403 989 1403 989 1398 993 1398 1059 1370 1059 1338 1049 1277 167 1268 172 1342"/></Shape>
+                    HPOS="172"
+                    VPOS="1277"
+                    WIDTH="887"
+                    HEIGHT="126">
+            <Shape><Polygon POINTS="172 1403 989 1403 989 1398 993 1398 1059 1370 1059 1338 1049 1277 237 1292 172 1342"/></Shape>
 	    <String CONTENT="uostre amor pens ior ⁊ nuit"
-                    HPOS="167"
-                    VPOS="1268"
-                    WIDTH="892"
-                    HEIGHT="135"
+                    HPOS="172"
+                    VPOS="1277"
+                    WIDTH="887"
+                    HEIGHT="126"
                     WC="0.9700385839850815"></String>
           </TextLine>
           <TextLine ID="eSc_line_f9fb2d3e"
