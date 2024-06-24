@@ -223,7 +223,7 @@
                     VPOS="1204"
                     WIDTH="929"
                     HEIGHT="142">
-            <Shape><Polygon POINTS="441 1273 395 1273 349 1277 303 1277 257 1277 262 1296 262 1328 869 1346 873 1346 1186 1314 1186 1282 1172 1204 464 1231 441 1273"/></Shape>
+            <Shape><Polygon POINTS="395 1273 349 1277 303 1277 257 1277 262 1296 262 1328 869 1346 873 1346 1186 1314 1186 1282 1172 1204 464 1231 441 1273"/></Shape>
 	    <String CONTENT="A nul cens do ne toit lon"
                     HPOS="257"
                     VPOS="1204"
@@ -743,7 +743,7 @@
                    TAGREFS="BT54">
           <Shape><Polygon POINTS="1383 110 1346 4664 2396 4707 2390 79"/></Shape>
           <TextLine ID="eSc_line_b417bf3f"
-                    TAGREFS="LT64"
+                    TAGREFS="LT8"
                     BASELINE="1298 228 1386 227" 
                     HPOS="1296"
                     VPOS="137"
@@ -758,6 +758,7 @@
                     WC="0.999748170375824"></String>
           </TextLine>
           <TextLine ID="eSc_line_d49446f5"
+                    TAGREFS="LT8"
                     BASELINE="1397 227 2099 217" 
                     HPOS="1388"
                     VPOS="114"
