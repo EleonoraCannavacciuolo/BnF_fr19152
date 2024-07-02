@@ -21,13 +21,13 @@
                   VPOS="0"
                   WIDTH="3518"
                   HEIGHT="5595">
-        <TextBlock HPOS="89"
-                   VPOS="116"
-                   WIDTH="1129"
-                   HEIGHT="4604"
+        <TextBlock HPOS="102"
+                   VPOS="115"
+                   WIDTH="1116"
+                   HEIGHT="4605"
                    ID="eSc_textblock_a6bb9396"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="89 133 128 4720 1125 4720 1123 3989 1217 3945 1160 3855 1123 3834 1119 1945 1159 1909 1213 1862 1173 1768 1119 1734 1119 748 1218 676 1172 589 1119 543 1119 116"/></Shape>
+          <Shape><Polygon POINTS="102 115 128 4720 1125 4720 1123 3989 1217 3945 1160 3855 1123 3834 1119 1945 1159 1909 1213 1862 1173 1768 1119 1734 1119 748 1218 676 1172 589 1119 543 1119 116"/></Shape>
           <TextLine ID="eSc_line_24f8f393"
                     TAGREFS="LT8"
                     BASELINE="112 297 1082 276" 
@@ -712,13 +712,13 @@
                     WC="0.9999788999557495"></String>
           </TextLine>
         </TextBlock>
-        <TextBlock HPOS="1158"
+        <TextBlock HPOS="1150"
                    VPOS="50"
-                   WIDTH="1119"
-                   HEIGHT="4659"
+                   WIDTH="1127"
+                   HEIGHT="4681"
                    ID="eSc_textblock_9b5c22d3"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="1158 50 1174 4709 2277 4709 2255 78"/></Shape>
+          <Shape><Polygon POINTS="1158 50 1150 4731 2277 4709 2255 78"/></Shape>
           <TextLine ID="eSc_line_f8c133ff"
                     TAGREFS="LT8"
                     BASELINE="1194 282 2186 264" 
@@ -1383,10 +1383,10 @@
         <TextBlock HPOS="2283"
                    VPOS="94"
                    WIDTH="1191"
-                   HEIGHT="4610"
+                   HEIGHT="4646"
                    ID="eSc_textblock_463df706"
                    TAGREFS="BT54">
-          <Shape><Polygon POINTS="2283 94 2305 4704 3474 4693 3474 94"/></Shape>
+          <Shape><Polygon POINTS="2283 94 2293 4740 3474 4693 3474 94"/></Shape>
           <TextLine ID="eSc_line_8f7849a8"
                     TAGREFS="LT8"
                     BASELINE="2304 270 3157 264" 
