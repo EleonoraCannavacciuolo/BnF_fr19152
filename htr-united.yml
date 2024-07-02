@@ -133,7 +133,7 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 830351
+- count: 830352
   metric: characters
 - count: 307
   metric: files
