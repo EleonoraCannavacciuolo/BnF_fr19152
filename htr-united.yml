@@ -88,14 +88,14 @@ characters:
   - ÷
   - Y
   - /
+  - '3'
   - K
   - '2'
-  - '3'
   - ^
+  - '&'
   - '6'
   - ꝵ
   - w
-  - '&'
   - X
   - ̌
   - Ꝯ
@@ -133,7 +133,7 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 846879
+- count: 863757
   metric: characters
 - count: 319
   metric: files
