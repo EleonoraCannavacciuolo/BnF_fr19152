@@ -62,42 +62,46 @@ characters:
   - "'"
   - 
   - ͤ
-  - R
   - H
+  - R
   - y
   - ł
   - ':'
   - '5'
   - ᷤ
   - '1'
+  - ̣
   - ͬ
   - k
   - '9'
   - ħ
+  - ẜ
   - Ꝙ
   - 
-  - ẜ
   - ¶
   - ̈
-  - '7'
   - ͨ
+  - '7'
+  - Ꝑ
   - '-'
   - ꝓ
   - ̧
-  - Y
   - ÷
+  - Y
   - '4'
   - '3'
-  - /
   - '2'
+  - /
   - K
-  - '&'
   - ^
+  - §
+  - '&'
   - '6'
   - ꝵ
   - Ꝯ
   - X
   - ̌
+  - ᷒
   - w
   - ꝙ
   - ͭ
@@ -105,9 +109,11 @@ characters:
   - ⟧
   - '0'
   - ̇
-  - ⟦
-  - v
+  - V
   - ','
+  - ⟦
+  - ᷝ
+  - v
   - ́
   - ̵
   mode: NFD
@@ -133,11 +139,11 @@ time:
 title: BNF_fr19152
 url: https://github.com/EleonoraCannavacciuolo/BnF_fr19152
 volume:
-- count: 1045409
+- count: 1045742
   metric: characters
 - count: 387
   metric: files
-- count: 52957
+- count: 52960
   metric: lines
 - count: 400
   metric: pages
