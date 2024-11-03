@@ -1,0 +1,110 @@
+KETOS training
+scikit-learn version 1.2.2 is not supported. Minimum required version: 0.17. Maximum required version: 1.1.2. Disabling scikit-learn conversion API.
+Torch version 2.1.2+cu121 has not been tested with coremltools. You may run into unexpected errors. Torch 2.0.0 is the most recent version that has been tested.
+[11/03/24 13:52:05] WARNING  The model will be flagged to use recognition.py:309
+                             new polygon extractor.                             
+GPU available: True (cuda), used: True
+TPU available: False, using: 0 TPU cores
+IPU available: False, using: 0 IPUs
+HPU available: False, using: 0 HPUs
+`Trainer(val_check_interval=1.0)` was configured so validation will run at the end of the training epoch..
+You are using a CUDA device ('NVIDIA A100 80GB PCIe') that has Tensor Cores. To properly utilize them, you should set `torch.set_float32_matmul_precision('medium' | 'high')` which will trade-off precision for performance. For more details, read https://pytorch.org/docs/stable/generated/torch.set_float32_matmul_precision.html#torch.set_float32_matmul_precision
+[11/03/24 13:52:06] WARNING  Neural network has been trained on     train.py:620
+                             mode L images, training set contains               
+                             mode 1 data. Consider setting                      
+                             `force_binarization`                               
+LOCAL_RANK: 0 - CUDA_VISIBLE_DEVICES: [0]
+┏━━━━┳━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━┳━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━┓
+┃    ┃ Name      ┃ Type            ┃ Params ┃        In sizes ┃      Out sizes ┃
+┡━━━━╇━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━╇━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━┩
+│ 0  │ val_cer   │ CharErrorRate   │      0 │               ? │              ? │
+│ 1  │ val_wer   │ WordErrorRate   │      0 │               ? │              ? │
+│ 2  │ net       │ MultiParamSequ… │  5.7 M │    [[1, 1, 120, │   [[1, 208, 1, │
+│    │           │                 │        │      400], '?'] │      49], '?'] │
+│ 3  │ net.C_0   │ ActConv2D       │    288 │    [[1, 1, 120, │   [[1, 32, 30, │
+│    │           │                 │        │ 400], '?', '?'] │     200], '?'] │
+│ 4  │ net.Gn_1  │ GroupNorm       │     64 │    [[1, 32, 30, │   [[1, 32, 30, │
+│    │           │                 │        │ 200], '?', '?'] │     200], '?'] │
+│ 5  │ net.C_2   │ ActConv2D       │ 16.4 K │    [[1, 32, 30, │   [[1, 64, 29, │
+│    │           │                 │        │ 200], '?', '?'] │     199], '?'] │
+│ 6  │ net.Gn_3  │ GroupNorm       │    128 │    [[1, 64, 29, │   [[1, 64, 29, │
+│    │           │                 │        │ 199], '?', '?'] │     199], '?'] │
+│ 7  │ net.Mp_4  │ MaxPool         │      0 │    [[1, 64, 29, │    [[1, 64, 7, │
+│    │           │                 │        │ 199], '?', '?'] │      99], '?'] │
+│ 8  │ net.C_5   │ ActConv2D       │ 73.9 K │     [[1, 64, 7, │   [[1, 128, 7, │
+│    │           │                 │        │  99], '?', '?'] │      99], '?'] │
+│ 9  │ net.Gn_6  │ GroupNorm       │    256 │    [[1, 128, 7, │   [[1, 128, 7, │
+│    │           │                 │        │  99], '?', '?'] │      99], '?'] │
+│ 10 │ net.Mp_7  │ MaxPool         │      0 │    [[1, 128, 7, │   [[1, 128, 7, │
+│    │           │                 │        │  99], '?', '?'] │      49], '?'] │
+│ 11 │ net.S_8   │ Reshape         │      0 │    [[1, 128, 7, │   [[1, 896, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+│ 12 │ net.L_9   │ TransposedSumm… │  2.4 M │    [[1, 896, 1, │   [[1, 512, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+│ 13 │ net.Do_10 │ Dropout         │      0 │    [[1, 512, 1, │   [[1, 512, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+│ 14 │ net.L_11  │ TransposedSumm… │  1.6 M │    [[1, 512, 1, │   [[1, 512, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+│ 15 │ net.Do_12 │ Dropout         │      0 │    [[1, 512, 1, │   [[1, 512, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+│ 16 │ net.L_13  │ TransposedSumm… │  1.6 M │    [[1, 512, 1, │   [[1, 512, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+│ 17 │ net.Do_14 │ Dropout         │      0 │    [[1, 512, 1, │   [[1, 512, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+│ 18 │ net.O_15  │ LinSoftmax      │  106 K │    [[1, 512, 1, │   [[1, 208, 1, │
+│    │           │                 │        │  49], '?', '?'] │      49], '?'] │
+└────┴───────────┴─────────────────┴────────┴─────────────────┴────────────────┘
+Trainable params: 5.7 M                                                         
+Non-trainable params: 0                                                         
+Total params: 5.7 M                                                             
+Total estimated model params size (MB): 22                                      
+SLURM auto-requeueing enabled. Setting signal handlers.
+stage 0/∞ ━━━━━━━━━━━━ 1979/1979 0:09:25 •    3.56it/s val_accura… early_stoppi…
+                                 0:00:00               0.888       0/10 0.88786 
+                                                       val_word_a…              
+                                                       0.586                    
+stage 1/∞ ━━━━━━━━━━━━ 1979/1979 0:09:27 •    3.51it/s val_accura… early_stoppi…
+                                 0:00:00               0.900       0/10 0.90032 
+                                                       val_word_a…              
+                                                       0.608                    
+stage 2/∞ ━━━━━━━━━━━━ 1979/1979 0:09:20 •    3.53it/s val_accura… early_stoppi…
+                                 0:00:00               0.868       1/10 0.90032 
+                                                       val_word_a…              
+                                                       0.554                    
+stage 3/∞ ━━━━━━━━━━━━ 1979/1979 0:09:23 •    3.55it/s val_accura… early_stoppi…
+                                 0:00:00               0.900       2/10 0.90032 
+                                                       val_word_a…              
+                                                       0.629                    
+stage 4/∞ ━━━━━━━━━━━━ 1979/1979 0:09:20 •    3.56it/s val_accura… early_stoppi…
+                                 0:00:00               0.878       3/10 0.90032 
+                                                       val_word_a…              
+                                                       0.561                    
+stage 5/∞ ━━━━━━━━━━━━ 1979/1979 0:09:29 •    3.49it/s val_accura… early_stoppi…
+                                 0:00:00               0.866       4/10 0.90032 
+                                                       val_word_a…              
+                                                       0.535                    
+stage 6/∞ ━━━━━━━━━━━━ 1979/1979 0:09:24 •    3.51it/s val_accura… early_stoppi…
+                                 0:00:00               0.869       5/10 0.90032 
+                                                       val_word_a…              
+                                                       0.558                    
+stage 7/∞ ━━━━━━━━━━━━ 1979/1979 0:09:28 •    3.50it/s val_accura… early_stoppi…
+                                 0:00:00               0.885       6/10 0.90032 
+                                                       val_word_a…              
+                                                       0.597                    
+stage 8/∞ ━━━━━━━━━━━━ 1979/1979 0:09:26 •    3.50it/s val_accura… early_stoppi…
+                                 0:00:00               0.875       7/10 0.90032 
+                                                       val_word_a…              
+                                                       0.556                    
+stage 9/∞ ━━━━━━━━━━━━ 1979/1979 0:09:29 •    3.49it/s val_accura… early_stoppi…
+                                 0:00:00               0.856       8/10 0.90032 
+                                                       val_word_a…              
+                                                       0.514                    
+stage 10/∞ ━━━━━━━━━━━ 1979/1979 0:09:24 •    3.50it/s val_accura… early_stoppi…
+                                 0:00:00               0.864       9/10 0.90032 
+                                                       val_word_a…              
+                                                       0.550                    
+stage 11/∞ ━━━━━━━━━━━ 1979/1979 0:09:21 •    3.49it/s val_accura… early_stoppi…
+                                 0:00:00               0.868       10/10 0.90032
+                                                       val_word_a…              
+                                                       0.556                    
+Moving best model /home/users/c/cannavac/BnF_fr19152/models/trained_transcription_model_1.mlmodel (0.9003204107284546) to /home/users/c/cannavac/BnF_fr19152/models/trained_transcription_model_best.mlmodel

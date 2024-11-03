@@ -17,7 +17,6 @@ BASE_MODEL="/home/users/c/cannavac/BnF_fr19152/models/CATMUS_Medieval.mlmodel"
 echo "KETOS training"
 srun ketos train -o $OUTPUT_NAME \
 	-f alto -d cuda:0 --resize union \
-	--epochs 50 --schedule cosine \
-	-B 8 -r 0.003 \
+	-r 0.003 --epochs 50 --schedule cosine \
 	-i $BASE_MODEL \
-	-t "${XML_FOLDER}/*.xml"
+	 "${XML_FOLDER}/*.xml"
